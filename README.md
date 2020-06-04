@@ -1,3 +1,3 @@
 # control_repo-
 
-Control repo and monitoring infrastructure state
+DevOps Project to deploy and maintain a 3 nodes minecraft infrastructure with Puppet and Docker
